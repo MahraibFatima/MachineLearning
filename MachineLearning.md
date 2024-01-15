@@ -27,7 +27,7 @@ Classification is an algorithm that finds functions that help divide the dataset
 
 |Regression          |  Classification|
 | -------           | ---------------  |
-| ![img](imgs/regression.png )             |              |
+| ![img](imgs/regression)             |              |
 
 # Unsupervised learing:
   Find interesting data patterns in your unlabeled data.
