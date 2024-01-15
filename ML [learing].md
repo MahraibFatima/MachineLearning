@@ -9,7 +9,7 @@
   Input -> output [lables]
   
   Examples:
-  |**Input**          |  **Output [lable]**       |  **Applications**|
+  |Input          | Output [lable]      |  Applications|
   | -------           |    -----------           | ---------------  |
   |English            |  Spanish                 |  Machine translation|
   |Email              |  Spam? [ 0 or 1]          |  Spamming filter|
@@ -30,8 +30,10 @@ Classification is an algorithm that finds functions that help divide the dataset
   Find interesting data patterns in your unlabeled data.
    [*Clustering*](https://www.geeksforgeeks.org/clustering-in-machine-learning/) is basically a collection of objects on the basis of similarity and dissimilarity between them. 
 
-  | DNA microarray |  Google News | tech ppl grping |
+For example: 
+
+  | **DNA microarray** |  Google News | tech ppl grping |
   | --------       | ------------ | -------------- |
-  | <img src="[http://url/image.png](https://github.com/MahraibFatima/MachineLearning-/blob/main/imgs/DNA_microArray.png)" height="60" width="60" >| <img src="[http://url/image.png](https://github.com/MahraibFatima/MachineLearning-/blob/main/imgs/Google_news.png)" height="60" width="60" > | <img src="[http://url/image.png](https://github.com/MahraibFatima/MachineLearning-/blob/main/imgs/grouping-Customer.png)https://github.com/MahraibFatima/MachineLearning-/blob/main/imgs/grouping-Customer.png" height="60" width="60" > |
+  | ![img](imgs/DNA_microArray.png )|  ![img](imgs/Google_news.png) | ![img](imgs/grouping-Customer.png) |
 
   
