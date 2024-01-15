@@ -32,4 +32,6 @@ Classification is an algorithm that finds functions that help divide the dataset
 
   | DNA microarray |  Google News | tech ppl grping |
   | --------       | ------------ | -------------- |
+  | <img src="[http://url/image.png](https://github.com/MahraibFatima/MachineLearning-/blob/main/imgs/DNA_microArray.png)" height="60" width="60" >| <img src="[http://url/image.png](https://github.com/MahraibFatima/MachineLearning-/blob/main/imgs/Google_news.png)" height="60" width="60" > | <img src="[http://url/image.png](https://github.com/MahraibFatima/MachineLearning-/blob/main/imgs/grouping-Customer.png)https://github.com/MahraibFatima/MachineLearning-/blob/main/imgs/grouping-Customer.png" height="60" width="60" > |
+
   
