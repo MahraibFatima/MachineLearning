@@ -23,7 +23,7 @@ where
 - These differences are summed over all the $m$ examples and divided by `2m` to produce the cost, $J(w,b)$.  
 >Note, In theatrically summation ranges are typically from 1 to m, while code will be from 0 to m-1.
 
-![img](imgs/#3-CostFunction/CostFunction.png)
+![img](imgs/3-CostFunction/CostFunction.png)
 
 There are many cost functions in machine learning and each has its use cases depending on whether it is a regression problem or classification problem.
 - Regression cost Function
@@ -32,11 +32,11 @@ There are many cost functions in machine learning and each has its use cases dep
 
 here we have some examples for Regression cost Function.
 
-![img](imgs/#3-CostFunction/CostFunctionExample1.png)
+![img](imgs/3-CostFunction/CostFunctionExample1.png)
 
-![img](imgs/#3-CostFunction/CostFunctionExample2.png)
+![img](imgs/3-CostFunction/CostFunctionExample2.png)
 
-![img](imgs/#3-CostFunction/CostFunctionExample3.png)
+![img](imgs/3-CostFunction/CostFunctionExample3.png)
 
 [**What is total and average cost function?**](https://www.analyticsvidhya.com/blog/2021/02/cost-function-is-no-rocket-science/)
 
