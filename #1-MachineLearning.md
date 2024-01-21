@@ -30,8 +30,7 @@ Classification is an algorithm that finds functions that help divide the dataset
 
 |Regression          |  Classification|
 | -------           | ---------------  |
-
-| ![img](imgs/1-MachineLearning/SupervisedLearningHousePredictionRegressionExample.png) |  ![img](imgs/1-MachineLearning/ClassificationExample.png)     |
+|![img](imgs/1-MachineLearning/SupervisedLearningHousePredictionRegressionExample.png) |  ![img](imgs/1-MachineLearning/ClassificationExample.png)   |  
 
 # Unsupervised learing:
   Find interesting data patterns in your unlabeled data.
