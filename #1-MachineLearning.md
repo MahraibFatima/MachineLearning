@@ -30,7 +30,8 @@ Classification is an algorithm that finds functions that help divide the dataset
 
 |Regression          |  Classification|
 | -------           | ---------------  |
-| ![img](imgs/MachineLearning/SupervisedLearningHousePredictionRegressionExample.png) |  ![img](imgs/MachineLearning/ClassificationExample.png)     |
+
+| ![img](imgs/1-MachineLearning/SupervisedLearningHousePredictionRegressionExample.png) |  ![img](imgs/1-MachineLearning/ClassificationExample.png)     |
 
 # Unsupervised learing:
   Find interesting data patterns in your unlabeled data.
@@ -40,7 +41,7 @@ Classification is an algorithm that finds functions that help divide the dataset
 
   | DNA microarray |  Google News | tech ppl grouping |
   | --------       | ------------ | -------------- |
-  | ![img](imgs/MachineLearning/DNA_microArray.png)|  ![img](imgs/MachineLearning/Google_news.png) | ![img](imgs/MachineLearning/grouping-Customer.png) |
+  | ![img](imgs/1-MachineLearning/DNA_microArray.png)|  ![img](imgs/1-MachineLearning/Google_news.png) | ![img](imgs/1-MachineLearning/grouping-Customer.png) |
   
    [*Anamoly Detction*](https://www.techtarget.com/searchenterpriseai/definition/anomaly-detection) Anomaly detection is the process of identifying data points, entities or events that fall outside the normal range. It msotly consist to usual data points.
    

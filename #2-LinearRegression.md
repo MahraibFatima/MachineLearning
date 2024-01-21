@@ -18,7 +18,7 @@ it also can be write as
 - All values of $y$ treated as `targets`.
 
 
-![img](imgs/LinearRegression/LinearRegression.png)
+![img](imgs/2-LinearRegression/LinearRegression.png)
 where
 
 - $y$ is the dependent variable.
@@ -31,7 +31,7 @@ where
 
 Here are some Examples of Linear Regression:
 
-![img](imgs/LinearRegression/LinearRegressionExamples.png)
+![img](imgs/2-LinearRegression/LinearRegressionExamples.png)
 
 and we can say,
 
@@ -47,11 +47,11 @@ if `i` = 5, it's mean value of `x` or `y` at `5th` index.
 The goal of linear regression is to find the values of $w$ and $b$ that minimize the sum of squared differences between the observed values of the dependent variable and the values predicted by the linear model.In other words, linear regression aims to find the best-fitting linear relationship between the input variables and the output variable.
 - to choose the value of $w$ that approximately equal or close to function actual values.
 
-![img](imgs/LinearRegression/GoalOfLinearRegression.png)
+![img](imgs/2-LinearRegression/GoalOfLinearRegression.png)
 
 # Summary
 here a quick summary to linear regression:
 
-![img](imgs/LinearRegression/LinearRegressionWithOneVariable.png)
+![img](imgs/2-LinearRegression/LinearRegressionWithOneVariable.png)
 
 
