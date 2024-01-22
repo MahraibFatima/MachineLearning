@@ -2,7 +2,7 @@
 It is a first-order iterative algorithm for finding a local minimum of a differentiable multivariate function.
 The idea is to take repeated steps in the opposite direction of the gradient (or approximate gradient) of the function at the current point, because this is the direction of steepest descent.
 
-![img](imgs/4-GradientDescent/GradientDescent.jpg)
+![img](imgs/4-GradientDescent/GradientDescent.png)
 
 
 *Gradient descent* was described as:
