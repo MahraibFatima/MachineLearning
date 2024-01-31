@@ -6,9 +6,12 @@ Subfields of Machine learning:
 - Unsupervosed learning
 - Reinforcement learning
   
-# Supervised learing:
+# Supervised learning:
   Supervised learning is when we give our learning algorithm the right answer  for each example to learn from.
-    
+  
+  - Regression
+  - Classification
+
   Input -> output [label]
   
   Examples:
