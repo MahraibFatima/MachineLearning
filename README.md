@@ -5,14 +5,14 @@ Welcome to the Hands-On Machine Learning Concepts repository! This collection fe
 ## Topics Covered
 
 - Machine Learning Basics
+- Artificial Neural Networks
+- Deep Learning
+- Applied Machine Learning
+- Machine Learning Algorithm
 - Linear Regression
 - Classification
 - Gradient Descent
 - Cost Function Optimization
-- Applied Machine Learning
-- Machine Learning Algorithm
-- Artificial Neural Networks
-- Deep Learning
 - Network Model
 - Algorithms
 - Mathematics
