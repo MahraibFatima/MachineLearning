@@ -9,6 +9,7 @@ Welcome to the Hands-On Machine Learning Concepts repository! This collection fe
 - Deep Learning
 - Applied Machine Learning
 - Machine Learning Algorithm
+- Exploratory Data Analysis (EDA).
 - Linear Regression
 - Classification
 - Gradient Descent
@@ -20,19 +21,8 @@ Welcome to the Hands-On Machine Learning Concepts repository! This collection fe
 
 ## Getting Started
 
-1. **Clone the repository:**
-   
-   ```bash
-   git clone https://github.com/MahraibFatima/MachineLearning
-
-
 1. **Explore the files corresponding to each concept.**
 2. **Dive into the hands-on exercises and code examples.**
 
-# How to Use
-Feel free to use this repository as a learning resource or reference material for your machine learning journey. Each concept is accompanied by practical examples to enhance your understanding.
-
-# Contributing
-If you find errors, have suggestions, or want to contribute additional content, feel free to open a Pull Request. Positive criticism is always welcomed!
 
 **Happy Learning!** ✨
