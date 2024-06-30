@@ -6,6 +6,8 @@ Welcome to the Hands-On Machine Learning Concepts repository! This collection fe
 
 - [Machine Learning Core](https://github.com/MahraibFatima/MachineLearning/blob/main/%231-MachineLearning.md)
 - [Supervised Learning Core](https://github.com/MahraibFatima/MachineLearning/blob/main/supervisedLearning.md)
+- [Unsupervised Learning Core](https://github.com/MahraibFatima/MachineLearning/blob/main/%231.2%20UnsupervisedLearning.md)
+- [Reinforcement Learning Core](https://github.com/MahraibFatima/MachineLearning/blob/main/%231.3-ReinforcementLearning.md)
 - Deep Learning
 - Applied Machine Learning
 - Machine Learning Algorithm
