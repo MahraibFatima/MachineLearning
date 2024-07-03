@@ -1,38 +1,28 @@
 # Hands-On Machine Learning Concepts from deeplearning.AI
 
-Welcome to the Hands-On Machine Learning Concepts repository! This collection features fundamental concepts and hands-on exercises extracted from the [@deeplearning.AI](https://www.deeplearning.ai/) course by [@Andrew Ng](https://www.andrewng.org/).
+Welcome to the Hands-On Machine Learning Concepts repository! This collection features fundamental concepts and hands-on exercises extracted from the My own Machine learning journey. taking notes from various resources from where I learnt!
 
-## Topics Covered
+## Topics Covered or Planned
 
-- Machine Learning Basics
-- Artificial Neural Networks
+- [Machine Learning Core](https://github.com/MahraibFatima/MachineLearning/blob/main/%231-MachineLearning.md)
+- [Supervised Learning Core](https://github.com/MahraibFatima/MachineLearning/blob/main/supervisedLearning.md)
+- [Unsupervised Learning Core](https://github.com/MahraibFatima/MachineLearning/blob/main/%231.2%20UnsupervisedLearning.md)
+- [Reinforcement Learning Core](https://github.com/MahraibFatima/MachineLearning/blob/main/%231.3-ReinforcementLearning.md)
 - Deep Learning
 - Applied Machine Learning
 - Machine Learning Algorithm
-- Linear Regression
+- Exploratory Data Analysis (EDA).
+- [Linear Regression](https://github.com/MahraibFatima/MachineLearning/blob/main/%232-LinearRegression.md)
 - Classification
-- Gradient Descent
-- Cost Function Optimization
-- Network Model
-- Algorithms
+- [Gradient Descent](https://github.com/MahraibFatima/MachineLearning/blob/main/%234-GradientDescent.md)
+- [Cost Function Optimization](https://github.com/MahraibFatima/MachineLearning/blob/main/%232-LinearRegression.md)
 - Mathematics
 
 
 ## Getting Started
 
-1. **Clone the repository:**
-   
-   ```bash
-   git clone https://github.com/MahraibFatima/MachineLearning
-
-
 1. **Explore the files corresponding to each concept.**
 2. **Dive into the hands-on exercises and code examples.**
 
-# How to Use
-Feel free to use this repository as a learning resource or reference material for your machine learning journey. Each concept is accompanied by practical examples to enhance your understanding.
-
-# Contributing
-If you find errors, have suggestions, or want to contribute additional content, feel free to open a Pull Request. Positive criticism is always welcomed!
 
 **Happy Learning!** ✨
